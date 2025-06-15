@@ -1,0 +1,13 @@
+{
+  "name": "discord-checkhost-bot",
+  "version": "1.0.0",
+  "description": "A Discord bot that uses Check-Host API for network checks",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.16.3",
+    "axios": "^1.7.7"
+  }
+}
