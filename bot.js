@@ -6,7 +6,7 @@ const prefix = '!';
 const CHECK_HOST_API = 'https://check-host.net';
 
 // Replace with your Discord bot token
-const TOKEN = 'MTM4MjQ0MDU2MDMyOTIyODM1MA.GHDGjr.qSIpEOFa-edLRHJ1WChYS7SM9DnQ1J3lhSxRj8';
+const TOKEN = '';
 
 client.once('ready', () => {
     console.log(`Logged in as ${client.user.tag}!`);
